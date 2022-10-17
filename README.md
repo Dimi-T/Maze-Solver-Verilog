@@ -1,6 +1,13 @@
-# Maze-Solver-Verilog
+# MAZE-SOLVER-VERILOG
 
-	In rezolvarea temei ma folosesc de 4 stari:
+
+DISCLAIMER: Tester-ul si fisierele acestuia nu imi apartin. Munca mea este reprezentata de continutul fisierului "maze.v" si de explicatiile aferente acestuia.
+
+
+
+
+
+	In rezolvare ma folosesc de 4 stari:
 		- stare initiala,
 		- stare pentru deplasare,
 		- stare pentru primit input,
